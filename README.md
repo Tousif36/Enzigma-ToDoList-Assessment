@@ -1,2 +1,2 @@
 # Enzigma-ToDoList-Assessment
-change the branch to my-new-branch
+change the main branch to my-new-branch
